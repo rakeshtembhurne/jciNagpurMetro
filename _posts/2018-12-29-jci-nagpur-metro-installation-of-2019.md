@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: JCI Nagpur Metro 2019 Installation Event
 # image: /img/hello_world.jpeg
 ---
 
