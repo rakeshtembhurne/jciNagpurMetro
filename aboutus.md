@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About JCI Nagpur Metro
+title: About Us
 subtitle: Who we are, what we do and why should you join us
 ---
 
