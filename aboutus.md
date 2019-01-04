@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About Us
-subtitle: Who we are, what we do and why should you join us 
+subtitle: Who we are, what we do and why should you join us
+image: /img/2019/jan/jci_nagpur_merto.jpg
+bigimg: /img/2019/jan/jci_nagpur_merto.jpg
 ---
 
 > JCI Nagpur Metro is one the registered chapters affiliated to Indian Jaycees.
