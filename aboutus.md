@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About Us
 subtitle: Who we are, what we do and why should you join us
 image: /img/2019/jan/jci_nagpur_merto.jpg
