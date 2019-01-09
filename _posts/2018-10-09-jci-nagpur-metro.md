@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JCI PIOC EVENT
+title: JCI Nagpur Metro Impact 20-30
 image: /img/2018/jci_nagpur_metro_july_2018_2.jpg
 bigimg: /img/2018/jci_nagpur_metro_july_2018_2.jpg
 ---
