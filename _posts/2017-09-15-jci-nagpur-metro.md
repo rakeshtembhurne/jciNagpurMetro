@@ -1,6 +1,7 @@
 ---
 layout: post
 title: JCI Nagpur Event
+image: /img/2017/jci_nagpur_metro.jpg
 bigimg: /img/2017/jci_nagpur_metro.jpg
 ---
 

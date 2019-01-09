@@ -2,6 +2,7 @@
 layout: post
 title: Clean India Drive Executed In Nagpur
 subtitle: JCI Nagpur Metro members conducted an event to clean Nagpur areas
+image: /img/2019/jan/jci_nagpur_metro_clean_india.jpg
 bigimg: /img/2019/jan/jci_nagpur_metro_clean_india.jpg
 ---
 
