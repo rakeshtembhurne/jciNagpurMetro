@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JCINM LGB Meeting before Installation
+title: LGB meeting before LGB Installation Program
 image: /img/2019//jan/IMG_20190112_165742.jpg
 bigimg: /img/2019//jan/IMG_20190112_165742.jpg
 ---
