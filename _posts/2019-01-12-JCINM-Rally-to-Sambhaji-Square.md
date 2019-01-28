@@ -7,4 +7,4 @@ bigimg: /img/2019//jan/IMG_20190112_085618.jpg
 
 ![JCINM Rally to Sambhaji Square](/img/2019//jan/IMG_20190112_085509.jpg)
 
-![JCINM Rally to Sambhaji Square](/img/2019//jan/IMG_20190112_085501.jpg)
+![JCINM Rally to Sambhaji Square](/img/2019//jan/IMG_20190112_085618.jpg)
