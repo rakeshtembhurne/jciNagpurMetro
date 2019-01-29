@@ -6,12 +6,6 @@ title: JCI Nagpur Metro Founder President's Message for LOTS 2019
 JCI Nagpur Metro Founder President, Mr Anand Sharma, talking about LOTS 2019 program happening in Nagpur. He explains why one must attend this event.
 
 <style type='text/css'>
-    .video-container {
-        position: relative;
-        padding-bottom: 56.25%;
-        /* padding-top: 30px; height: 0; overflow: hidden; */
-    }
-
     .video-container iframe,
     .video-container object,
     .video-container embed {
@@ -20,6 +14,9 @@ JCI Nagpur Metro Founder President, Mr Anand Sharma, talking about LOTS 2019 pro
         left: 0;
         width: 100%;
         height: 100%;
+        position: relative;
+        padding-bottom: 56.25%; */
+        padding-top: 30px; height: 0; overflow: hidden;
     }
 </style>
 
