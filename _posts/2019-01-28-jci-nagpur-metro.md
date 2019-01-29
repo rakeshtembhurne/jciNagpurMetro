@@ -18,8 +18,8 @@ JCI Nagpur Metro Founder President, Mr Anand Sharma, talking about LOTS 2019 pro
         position: absolute;
         top: 0;
         left: 0;
-        width: 80%;
-        height: 80%;
+        width: 100%;
+        height: 100%;
     }
 </style>
 
