@@ -6,14 +6,24 @@ bigimg: /img/2019/jan/IMG_20190110_184608.jpg
 ---
 
 
-![JCINM Appointment Vijay Kumar](/img/2019/jan/IMG_20190112_213737.jpg)
+![JCINM Appointments](/img/2019/jan/IMG_20190110_182336.jpg)
 
-![JCINM Appointment Mahesh Despande](/img/2019/jan/IMG_20190112_213742.jpg)
+![JCINM Appointments](/img/2019/jan/IMG_20190110_182405.jpg)
 
-![JCINM Appointment Hemanth Yadav](/img/2019/jan/IMG_20190112_213728.jpg)
+![JCINM Appointments](/img/2019/jan/IMG_20190110_182428.jpg)
 
-![JCINM Appointment Hemanth Yadav](/img/2019/jan/IMG_20190112_213735.jpg)
+![JCINM Appointments](/img/2019/jan/IMG_20190110_182447.jpg)
 
-![JCINM Appointment Hemanth Yadav](/img/2019/jan/IMG_20190110_182519.jpg)
+![JCINM Appointments](/img/2019/jan/IMG_20190110_182519.jpg)
 
-![JCINM Appointment Hemanth Yadav](/img/2019/jan/IMG_20190110_184608.jpg)
+![JCINM Appointments](/img/2019/jan/IMG_20190110_182546.jpg)
+
+![JCINM Appointments](/img/2019/jan/IMG_20190110_182631.jpg)
+
+![JCINM Appointments](/img/2019/jan/IMG_20190110_182703.jpg)
+
+![JCINM Appointments](/img/2019/jan/IMG_20190110_182759.jpg)
+
+![JCINM Appointments](/img/2019/jan/IMG_20190110_182821.jpg)
+
+![JCINM Appointments](/img/2019/jan/IMG_20190110_184608.jpg)
