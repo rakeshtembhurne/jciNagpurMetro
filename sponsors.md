@@ -3,11 +3,12 @@ layout: page
 title: Our Sponsor's
 ---
 
-![Shipla Infra](/img/2019/feb/shilpa-infra-logo.png)
-Shipla Infra
-[a link](http://www.shilpainfra.com/)
+![Shilpa Infra](/img/2019/feb/shilpa-infra-48x48.png)
+Shilpa Infra
+[Shilpa Infra](http://www.shilpainfra.com/)
 
-![Zero Mile EduTech](/img/2019/feb/icon-256x256.png)
+![Zero Mile EduTech](/img/2019/feb/icon-48x48.png)
 Zero Mile EduTech
-[a link](https://zeromileedutech.com/)
-[a link](https://zemet.org/)
+![Zero Mile EduTech](https://zeromileedutech.com/)
+
+![ZeMet Academy](https://zemet.org/)
