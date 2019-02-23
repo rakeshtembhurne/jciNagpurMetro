@@ -24,7 +24,7 @@ description: Be Better.
 # List of links in the navigation bar
 navbar-links:
   About Us: "aboutus"
-  Our Sponsor's: "sponsors"
+  Sponsor's: "sponsors"
   Directory: "directory"
   # Author's home: "https://jcinagpurmetro.com"
 

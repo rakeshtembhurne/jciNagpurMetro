@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Sponsor's
+title: Sponsor's
 ---
 
 # Shilpa Steel And Power Ltd
