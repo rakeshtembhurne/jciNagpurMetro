@@ -11,7 +11,7 @@ title: Sponsor's
 ![Zero Mile EduTech](/img/2019/feb/icon-256x256.png)<br />
 [https://zeromileedutech.com/](https://zeromileedutech.com/){:target="_blank"} , [https://zemet.org/](https://zemet.org/){:target="_blank"}
 
-> Whant to Sponsor's your events, contact here
-Name: Vice President Management Opportunities JC Rakesh Tembhurne
-Email: rakesh@zeromileedutech.com
-Phone: 7020138038
+**Whant to Sponsor's your events, contact here**<br />
+**Name:** Vice President Management Opportunities JC Rakesh Tembhurne<br />
+**Email:** rakesh@zeromileedutech.com<br />
+**Phone:** 7020138038<br />
