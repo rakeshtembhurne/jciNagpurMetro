@@ -3,7 +3,7 @@ layout: page
 title: Our Sponsor's
 ---
 
-![Shilpa Infra](/img/2019/feb/shilpa-infra-48x48.png)
+![Shilpa Infra](/img/2019/feb/shilpa-infra-72x72.png)
  Shilpa Infra
 [Shilpa Infra](http://www.shilpainfra.com/)
 
